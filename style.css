@@ -19,3 +19,27 @@ TH{
     background: #000000;
     color: #ffffff;
 }
+UL.a{
+    list-style-type: hiragana;
+}
+UL.b{
+    list-style-type: katakana;
+}
+UL.c{
+    list-style-type: hebrew;
+}
+IMG{
+    width: 100%;
+}
+a:link{
+    color: #00ff00;
+    text-decoration: none;
+}
+a:hover{
+    color: #00ffff;
+    text-decoration: line-through;
+}
+a:visited{
+    color: #ff0000;
+    text-decoration: underline;
+}
